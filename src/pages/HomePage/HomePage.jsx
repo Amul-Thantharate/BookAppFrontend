@@ -15,7 +15,11 @@ const HomePage = () => {
 					</h1>
 					<br />
 					<p className='header-text fs-18 fw-3'>
-						React App CI/CD Pipeline Using AWS CodePipeline
+						<Welcon>
+							Welcome to BookApp Library. Here you can find the
+							latest books, and also you can add your own books
+							to the library.
+						</Welcon>
 					</p>
 				</div>
 			</header>
